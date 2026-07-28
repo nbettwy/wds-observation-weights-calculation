@@ -15,4 +15,5 @@ This program also computes mean weights by technique code group, which can be us
 
 ## References
 United States Naval Observatory, Sixth Catalog of Orbits of Visual Binary Stars, adopted from Hartkopf, et al., 2001 AJ 122, 3472, https://crf.usno.navy.mil/wds-orb6.
+
 Washington Double Star Catalog. 2026. United States Naval Observatory, http://www.astro.gsu.edu/wds/.
